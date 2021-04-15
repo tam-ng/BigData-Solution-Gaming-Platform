@@ -1,4 +1,4 @@
-# BigData-Gaming-Platform
+# Big Data Solution for Gaming eCommerce Platform
 
 ---
 ## Business Use Case
