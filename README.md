@@ -2,11 +2,11 @@
 
 ---
 ## Business Use Case
-![](https://github.com/tam-ng/BigData-Gaming-Platform/tree/master/imgs/objectives.jpg)
+![](https://github.com/tam-ng/BigData-Gaming-Platform/blob/master/imgs/objectives.jpg)
 
 ---
 ## Pipeline
-![](https://github.com/tam-ng/BigData-Gaming-Platform/tree/master/imgs/pipeline.jpg)
+![](https://github.com/tam-ng/BigData-Gaming-Platform/blob/master/imgs/pipeline.jpg)
 
 ---
 ## Data Sources
